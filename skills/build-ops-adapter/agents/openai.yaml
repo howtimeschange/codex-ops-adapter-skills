@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Ops Adapter"
+  short_description: "Build marketplace automation adapters"
+  default_prompt: "Use $build-ops-adapter to add or repair an ecommerce operations adapter with real page inspection and verification."

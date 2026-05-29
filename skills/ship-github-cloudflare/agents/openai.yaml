@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ship GitHub + Cloudflare"
+  short_description: "Commit, push, version, and deploy safely"
+  default_prompt: "Use $ship-github-cloudflare to commit local changes, push to GitHub, update release notes, and deploy through Cloudflare."

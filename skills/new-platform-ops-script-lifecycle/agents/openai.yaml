@@ -1,0 +1,4 @@
+interface:
+  display_name: "New Platform Ops Script Lifecycle"
+  short_description: "Build, test, and release new platform automation scripts"
+  default_prompt: "Use $new-platform-ops-script-lifecycle to build a new platform/page operations script from CDP discovery through tests, UI templates, batch stability, GitHub CI, and release."
