@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Automation Skill"
+  short_description: "Probe and stabilize live web automation flows"
+  default_prompt: "Use $web-automation-skill to inspect live pages, choose DOM-first or API-first automation, stabilize flaky controls, and turn page experiments into adapter code."

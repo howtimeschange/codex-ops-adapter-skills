@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crawshrimp Probe Skill"
+  short_description: "Collect Crawshrimp page evidence before adapter work"
+  default_prompt: "Use $crawshrimp-probe-skill to run Crawshrimp dev harness snapshot, capture, eval, knowledge, or probe before implementing an adapter."

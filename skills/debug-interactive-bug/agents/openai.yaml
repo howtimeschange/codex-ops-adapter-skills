@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debug Interactive Bug"
+  short_description: "Debug flaky real-page interaction chains"
+  default_prompt: "Use $debug-interactive-bug to prove and fix flaky browser automation bugs involving clicks, menus, dialogs, overlays, pagination, retries, or submit flows."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crawshrimp Adapter Skill"
+  short_description: "Build stable Crawshrimp adapter scripts"
+  default_prompt: "Use $crawshrimp-adapter-skill to implement or repair Crawshrimp adapters with manifest wiring, phase/shared progress, recovery, export validation, and regression checks."
